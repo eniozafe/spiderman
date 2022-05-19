@@ -6,13 +6,8 @@ body {
 }
 
 body::before {
-<<<<<<< Updated upstream
-  content: "";
-  background-image: url('assets/images/spider-man-background.jpg');
-=======
   content: '';
   background-image: url('/assets/images/spider-man-background.jpg');
->>>>>>> Stashed changes
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
